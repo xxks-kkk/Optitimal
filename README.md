@@ -1,5 +1,8 @@
 # Optitimal
 
+## Installation:
+put .apk file onto your android phone, and run it with app installer on the phone.
+
 ## Goal
 To create an android application that allows users to record and analyze time spent doing different activities
 
