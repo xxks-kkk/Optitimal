@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_upload_catrgories">
+		<item>@string/pref_category_hangout</item>
+		<item>@string/pref_category_study</item>
+		<item>@string/pref_category_sports</item>
+		<item>@string/pref_category_programming</item>
+		<item>@string/pref_category_work</item>
+		<item>@string/pref_category_entertainment</item>
+		<item>@string/pref_category_shopping</item>
+	</string-array>
+    
+     <string-array name="pref_upload_catrgories_values">
+		<item>Hang out</item>
+		<item>Study</item>
+		<item>Sports</item>
+		<item>Programming</item>
+		<item >Work</item>
+		<item >Entertainment</item>
+		<item >Shopping</item>
+	</string-array>
+	
+     <string-array name="chart_type">
+         <item >pie chart</item>
+         <item >line chart</item>
+     </string-array>
+    
+</resources>

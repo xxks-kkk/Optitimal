@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.cs.wisc.optitimal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="edu.wisc.cs.optitimal.ReminderLaunchActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.wisc.cs.optitimal.ReminderListActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="edu.wisc.cs.optitimal.ReminderEditActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="edu.wisc.cs.optitimal.ReminderListAndEditorActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="edu.wisc.cs.optitimal.TaskPreferences"
+            android:label="@string/app_name" />
+        <activity android:name="edu.wisc.cs.optitimal.LineChartActivity" />
+        <activity android:name="edu.wisc.cs.optitimal.PieChartActivity" />
+        <activity
+            android:name="edu.wisc.cs.optitimal.ChartSelectionDialogFragmentWrapper"
+            android:noHistory="true" />
+
+        <receiver
+            android:name="edu.wisc.cs.optitimal.OnBootReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="edu.wisc.cs.optitimal.OnAlarmReceiver" />
+
+        <service android:name="edu.wisc.cs.optitimal.ReminderService" />
+
+        <provider
+            android:name="edu.wisc.cs.optitimal.ReminderProvider"
+            android:authorities="edu.wisc.cs.optitimal.ReminderProvider"
+            android:exported="false" />
+    </application>
+
+</manifest>
