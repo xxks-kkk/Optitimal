@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="@string/pref_category_task_defaults_key"
+        android:title="@string/pref_category_task_defaults_title" >
+        <EditTextPreference
+            android:dialogMessage="@string/pref_task_title_message"
+            android:dialogTitle="@string/pref_task_title_dialog_title"
+            android:key="@string/pref_task_title_key"
+            android:summary="@string/pref_task_title_summary"
+            android:title="@string/pref_task_title_title" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="@string/pref_category_datetime_key"
+        android:title="@string/pref_category_datetime_title" >
+        <EditTextPreference
+            android:dialogMessage="@string/pref_default_time_from_now_message"
+            android:dialogTitle="@string/pref_default_time_from_now_dialog_title"
+            android:key="@string/pref_default_time_from_now_key"
+            android:summary="@string/pref_default_time_from_now_summary"
+            android:title="@string/pref_default_time_from_now_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_category_default_title" >
+        <MultiSelectListPreference
+            android:entries="@array/pref_upload_catrgories"
+            android:entryValues="@array/pref_upload_catrgories_values"
+            android:key="@string/pref_category"
+            android:summary="@string/pref_category_summary"
+            android:title="@string/pref_category_title" 
+            android:defaultValue="@array/pref_upload_catrgories_values"/>
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/C:/Users/Zeyuan/Documents/GitHub/Optitimal/Optitimal/app/src/main/res/xml/task_preferences.xml -->

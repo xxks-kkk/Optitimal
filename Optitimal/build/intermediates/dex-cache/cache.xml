@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Zeyuan\Documents\GitHub\Optitimal\Optitimal\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08f1759c3c6b7988dded442cc9c3985962d3fff3">
+        <dex dex="C:\Users\Zeyuan\Documents\GitHub\Optitimal\Optitimal\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-dac563dcbf0cf9fd155ca344c9d1ec0f15611565.jar" />
+    </item>
+    <item
+        jar="C:\Users\Zeyuan\Documents\GitHub\Optitimal\Optitimal\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="C:\Users\Zeyuan\Documents\GitHub\Optitimal\Optitimal\app\build\intermediates\pre-dexed\debug\android-support-v13-335c9d62e981d7eed80aa9ad67fb5864c3e3992a.jar" />
+    </item>
+
+</items>
