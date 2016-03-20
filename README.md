@@ -1,5 +1,8 @@
 # Optitimal
 
+## License:
+BSD
+
 ## Installation:
 put .apk file onto your android phone, and run it with app installer on the phone.
 
