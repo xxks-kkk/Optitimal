@@ -20,26 +20,30 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-.. image:: /img/tracking-category-list-resize3.jpg
-.. image:: /img/tracking-category-list-resize3.jpg
+.. image:: /img/main.jpg
+   :height: 384px
+   :width: 216px
+.. image:: /setting01.jpg
+   :height: 384px
+   :width: 216px
 .. image:: /img/tracking-category-list-resize3.jpg   
+   :height: 384px
+   :width: 216px
          
-..
-   ![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
 
 **Simple but sufficient tools to meet complex daily todo task managment needs**
 
 The task page is kept simple but it's poweful enough to allow you record any todo task that you may encounter. Also, a todo task can never get easily missed!
 
-.. image:: /img/task01.jpeg
-   :height: 20px
-   :width: 20px
-.. image:: /img/task02.jpeg
-   :height: 20px
-   :width: 20px
-.. image:: /img/notification.jpeg
-   :height: 20px
-   :width: 20px
+.. image:: /img/task01.jpg
+   :height: 384px
+   :width: 216px
+.. image:: /img/task02.jpg
+   :height: 384px
+   :width: 216px
+.. image:: /img/notification.jpg
+   :height: 384px
+   :width: 216px
 
 **Time, Time, Time!**
 
@@ -47,17 +51,21 @@ Time is valuable resource to you and OptiTimal provides a straightforward way to
 utilization. OptiTimal offers you pie chart and line chart  to help you better understand what keeps you occupied the most. Furthermore, OptiTimal comes
 with multiple categories to allow you further customize on what kind of todo tasks you want to track.
 
-.. image:: /img/analyze01.jpeg
+.. image:: /img/analyze01.jpg
    :height: 384px
    :width: 216px
-.. image:: /img/analyze02.jpeg
+.. image:: /img/analyze02.jpg
    :height: 384px
    :width: 216px
-.. image:: /img/analyze03.jpeg
+.. image:: /img/analyze03.jpg
    :height: 384px
    :width: 216px
 
+==============
+Download
+==============
 
+Download the repo and install ``optitimal.apk`` on your phone. Enjoy!
 
 
 
