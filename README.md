@@ -1,5 +1,3 @@
-.. _optitimal.rst:
-
 ############
 OptiTimal
 ############
@@ -22,15 +20,7 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-.. image:: /img/main.jpeg
-   :height: 384px
-   :width: 216px
-.. image:: /img/setting01.jpeg
-   :height: 384px
-   :width: 216px
-.. image:: /img/tracking-category-list.jpeg
-   :height: 384px
-   :width: 216px
+![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
 
 **Simple but sufficient tools to meet complex daily todo task managment needs**
 
