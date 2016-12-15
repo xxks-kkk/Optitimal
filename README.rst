@@ -23,7 +23,7 @@ OptiTimal is a time management app. I don't want you to waste anytime on the app
 .. image:: /img/main.jpg
    :height: 384px
    :width: 216px
-.. image:: /setting01.jpg
+.. image:: /img/setting01.jpg
    :height: 384px
    :width: 216px
 .. image:: /img/tracking-category-list-resize3.jpg   
