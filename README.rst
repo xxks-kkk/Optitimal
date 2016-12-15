@@ -20,9 +20,9 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-.. image:: /img/tracking-category-list-resize.jpg
-.. image:: /img/tracking-category-list-resize.jpg
-.. image:: /img/tracking-category-list-resize.jpg   
+.. image:: /img/tracking-category-list-resize2.jpg
+.. image:: /img/tracking-category-list-resize2.jpg
+.. image:: /img/tracking-category-list-resize2.jpg   
          
 ..
    ![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
