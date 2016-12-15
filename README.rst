@@ -20,6 +20,10 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
+.. raw:: html
+
+         <img src="https://github.com/xxks-kkk/Optitimal/blob/master/img/main.jpeg" height="24" width="48">
+         
 ..
    ![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
 
