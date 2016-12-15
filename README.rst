@@ -22,13 +22,13 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-.. image:: main.jpeg
+.. image:: /img/main.jpeg
    :height: 384px
    :width: 216px
-.. image:: setting01.jpeg
+.. image:: /img/setting01.jpeg
    :height: 384px
    :width: 216px
-.. image:: tracking-category-list.jpeg
+.. image:: /img/tracking-category-list.jpeg
    :height: 384px
    :width: 216px
 
@@ -36,13 +36,13 @@ OptiTimal is a time management app. I don't want you to waste anytime on the app
 
 The task page is kept simple but it's poweful enough to allow you record any todo task that you may encounter. Also, a todo task can never get easily missed!
 
-.. image:: task01.jpeg
+.. image:: /img/task01.jpeg
    :height: 384px
    :width: 216px
-.. image:: task02.jpeg
+.. image:: /img/task02.jpeg
    :height: 384px
    :width: 216px
-.. image:: notification.jpeg
+.. image:: /img/notification.jpeg
    :height: 384px
    :width: 216px
 
@@ -52,22 +52,18 @@ Time is valuable resource to you and OptiTimal provides a straightforward way to
 utilization. OptiTimal offers you pie chart and line chart  to help you better understand what keeps you occupied the most. Furthermore, OptiTimal comes
 with multiple categories to allow you further customize on what kind of todo tasks you want to track.
 
-.. image:: analyze01.jpeg
+.. image:: /img/analyze01.jpeg
    :height: 384px
    :width: 216px
-.. image:: analyze02.jpeg
+.. image:: /img/analyze02.jpeg
    :height: 384px
    :width: 216px
-.. image:: analyze03.jpeg
+.. image:: /img/analyze03.jpeg
    :height: 384px
    :width: 216px
 
 
-=================================
-Download
-=================================
 
-OptiTimal is available for `Download <https://github.com/xxks-kkk/Optitimal>`_ on github. So is `source <https://github.com/xxks-kkk/Optitimal>`_. 
 
 
 
