@@ -20,21 +20,22 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
+..
+   ![](/img/main.jpeg) ![](/img/setting01.jpeg) ![](/img/tracking-category-list.jpeg)
 
 **Simple but sufficient tools to meet complex daily todo task managment needs**
 
 The task page is kept simple but it's poweful enough to allow you record any todo task that you may encounter. Also, a todo task can never get easily missed!
 
 .. image:: /img/task01.jpeg
-   :height: 384px
-   :width: 216px
+   :height: 20px
+   :width: 20px
 .. image:: /img/task02.jpeg
-   :height: 384px
-   :width: 216px
+   :height: 20px
+   :width: 20px
 .. image:: /img/notification.jpeg
-   :height: 384px
-   :width: 216px
+   :height: 20px
+   :width: 20px
 
 **Time, Time, Time!**
 
